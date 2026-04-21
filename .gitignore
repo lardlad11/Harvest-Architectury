@@ -2,6 +2,7 @@
 .idea/
 .build/
 .gradle/
+.vscode/
 *.iml
 *.ipr
 *.iws
